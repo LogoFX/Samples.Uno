@@ -1,7 +1,4 @@
-﻿using System;
-using Windows.UI.Xaml;
-
-namespace BugTracker.Wasm
+﻿namespace BugTracker.Wasm
 {
     public class Program
     {
